@@ -10,6 +10,9 @@ gem 'spring', :group => :development
 
 gem 'mysql2'
 
+# Serializer for JSON
+gem 'active_model_serializers'
+gem 'responders', '~> 2.0'
 
 
 # To use ActiveModel has_secure_password
